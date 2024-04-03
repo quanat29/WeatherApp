@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="back_btn">back_btn</string>
+    <string-array name="arrtinhthanh">
+        <item>Hà Nội</item>
+        <item>Tp.HCM</item>
+        <item>Bắc Ninh</item>
+        <item>Nam Định</item>
+        <item>Đà Nẵng</item>
+        <item>Nghệ An</item>
+    </string-array>
+    <string name="mapbox_access_token">pk.eyJ1IjoicXVhbmF0MjkiLCJhIjoiY2xmaTB6ODM0MGN3YzQybGg3d2JlY29yNiJ9.D6PAqM5LeCJnl5JJ63B9AQ</string>
+</resources>
